@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876927393300",
+    "project_id": "rockdoctor-463cb",
+    "storage_bucket": "rockdoctor-463cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876927393300:android:0772f98ee406834a7b9101",
+        "android_client_info": {
+          "package_name": "com.example.rock_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876927393300-qusj440slj35peb2vtf56be5l21jlf5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rock_doctor",
+            "certificate_hash": "7e084e49f54bd89cdb743ff546fbbe71b0e93658"
+          }
+        },
+        {
+          "client_id": "876927393300-3uhu1bjrec0768h9b8415g8qj6ltpssi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQk6_JisBwsp8dPOfTY-h0HMWmVwUncE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876927393300-3uhu1bjrec0768h9b8415g8qj6ltpssi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
